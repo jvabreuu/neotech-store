@@ -4,11 +4,6 @@
 
 Uma interface moderna e animada de loja de tecnologia, com transições suaves e layout responsivo, feita com HTML, CSS e JavaScript.
 
-## ✨ Demonstração
-
-![Neotech Store Demo](link-para-gif-ou-imagem-aqui)
-
-> 💡 Dica: você pode usar o [GitHub Pages](https://pages.github.com/) pra publicar e mostrar ao vivo!
 
 ## 🔧 Tecnologias usadas
 
